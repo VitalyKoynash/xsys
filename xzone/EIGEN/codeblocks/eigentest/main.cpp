@@ -2,7 +2,6 @@
 #include <Eigen/Dense>
 
 
-
 using namespace std;
 using Eigen::MatrixXd;
 using Eigen::MatrixXf;
